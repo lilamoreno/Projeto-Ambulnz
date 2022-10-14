@@ -7,7 +7,6 @@ import {PizzaCard} from "../components/PizzaCard"
 export const ContainerSection = styled.section`
     ul {
         display: flex;
-        justify-content: space-between;
     }
 `
 

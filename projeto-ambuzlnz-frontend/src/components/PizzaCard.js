@@ -5,7 +5,7 @@ import { Button } from "@mui/material";
 export const ContainerLi = styled.li`
     background-color: #F2F2F2;
     margin: 1em;
-    width: 13em;
+    width: 15em;
 
     display: flex;
     flex-direction: column;
