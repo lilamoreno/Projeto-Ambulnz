@@ -13,12 +13,14 @@ export const ContainerMain = styled.main`
     "header"
     "menuAndSummary"
   ;
+  width: fit-content;
 
   header {
     text-align: center;
     background-color: #1976d2;
     color: white;
     grid-area: header;
+    width: 100%;
   }
 
   .menuAndSummary {

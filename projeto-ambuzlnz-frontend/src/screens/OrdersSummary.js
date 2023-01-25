@@ -4,6 +4,7 @@ import Button from '@mui/material/Button';
 
 export const ContainerSection = styled.section`
     width: 30em;
+    height: fit-content;
     background-color: #F2F2F2;
     
 
